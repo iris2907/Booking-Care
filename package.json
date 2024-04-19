@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec ./node_modules/.bin/babel-node src/server.js"
   },
-  "author": "QuocDut",
+  "author": "Iris",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

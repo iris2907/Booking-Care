@@ -446,7 +446,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `address`, `phone`, `avatar`, `gender`, `description`, `roleId`, `isActive`, `createdAt`, `updatedAt`, `deletedAt`) VALUES
-(1, 'admin - HaryPhamDev', 'admin@gmail.com', '$2a$07$Bq0hCq3kVrvKUHfMT0NJROmQkx09aEQkGlwBGEdw799YJvWqH1kuy', 'New York', '088456732', 'admin.png', 'male', NULL, 1, 1, '2020-11-13 19:44:36', '2020-11-13 19:44:36', NULL),
+(1, 'admin - ', 'admin@gmail.com', '$2a$07$Bq0hCq3kVrvKUHfMT0NJROmQkx09aEQkGlwBGEdw799YJvWqH1kuy', 'New York', '088456732', 'admin.png', 'male', NULL, 1, 1, '2020-11-13 19:44:36', '2020-11-13 19:44:36', NULL),
 (2, 'Doctor - Evan', 'doctor@gmail.com', '$2a$07$Bq0hCq3kVrvKUHfMT0NJROmQkx09aEQkGlwBGEdw799YJvWqH1kuy', 'LA', '088456735', 'doctor3.jpg', 'male', '   ', 2, 1, '2020-11-13 19:44:36', '2020-11-13 19:46:18', NULL),
 (3, 'Doctor - Ben', 'doctor5@gmail.com', '$2a$07$Bq0hCq3kVrvKUHfMT0NJROmQkx09aEQkGlwBGEdw799YJvWqH1kuy', 'LA', '088456735', 'doctor4.jpg', 'male', '   ', 2, 1, '2020-11-13 19:44:36', '2020-11-13 20:19:55', NULL),
 (4, 'Doctor - Hary Pham', 'doctor10@gmail.com', '$2a$07$Bq0hCq3kVrvKUHfMT0NJROmQkx09aEQkGlwBGEdw799YJvWqH1kuy', 'LA', '088456735', 'doctor1.jpg', 'male', '   ', 2, 1, '2020-11-13 19:44:36', '2020-11-13 20:20:15', NULL),
