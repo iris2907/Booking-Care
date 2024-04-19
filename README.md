@@ -30,5 +30,5 @@ npm install --save sequelize@6.6.2
  "start": "nodemon --exec ./node_modules/.bin/babel-node src/server.js"
 
 
-
- hqjn qedn cmhp qssi
+Amin: admin@gmail.com
+Pw: 123456
